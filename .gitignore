@@ -1,0 +1,17 @@
+conf/*
+!conf/conf.ini.example
+proxy
+Proxy
+*.sh
+*.cbp
+*.o
+*.so
+*.svn
+.svn
+.svn*
+*_build_log.html
+*.layout
+MAKECONFIG
+MODULES
+src/modules/*
+!src/modules/MODULE_CONFIG
